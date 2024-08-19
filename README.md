@@ -37,8 +37,7 @@ Here are a few screenshots demonstrating the user flow in the Earthquake Data Ma
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/1d7cef2b-17e7-4843-b82f-7fb6c9a39f7c" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/1d7cef2b-17e7-4843-b82f-7fb6c9a39f7c" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/1d7cef2b-17e7-4843-b82f-7fb6c9a39f7c" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/5fd17c21-1279-4389-816f-ad49d76b9c75" width="400" height="300">
 
 ## Incomplete Features
 
