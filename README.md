@@ -41,9 +41,7 @@ Here are a few screenshots demonstrating the user flow in the Earthquake Data Ma
 
 ## Incomplete Features
 
-If there were any features or functionalities that were not completed:
-
-While working on this project, I planned to implement an advanced search feature that would allow users to filter earthquake records by magnitude range, date range, and location proximity. Unfortunately, due to time constraints and the complexity of the implementation, this feature was not completed. My goal was to provide a more dynamic and user-friendly way of querying the earthquake database, which I hope to implement in future versions.
+I have tried hard but couldn't finish the project I am so sorry. I have really tried. you can see the code professor but with connections here I got bit confused.
 
 ## Reflection on Laravel
 
