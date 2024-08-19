@@ -34,9 +34,10 @@ Here are a few screenshots demonstrating the user flow in the Earthquake Data Ma
 5. **User Authentication:** Login page ensuring that only authenticated users can access the management features.
 6. **Success Messages:** Notification of successful operations such as addition, update, or deletion of records.
 
-(Screenshots will be added here)
 
-## Incomplete Features (If Applicable)
+## Screenshots
+
+## Incomplete Features
 
 If there were any features or functionalities that were not completed:
 
@@ -44,4 +45,4 @@ While working on this project, I planned to implement an advanced search feature
 
 ## Reflection on Laravel
 
-Working with Laravel has been a rewarding experience, as it provides a powerful framework with robust features that streamline web development. The built-in authentication, easy-to-use ORM (Eloquent), and comprehensive documentation make Laravel an excellent choice for building web applications. I particularly appreciated Laravel's emphasis on simplicity and efficiency. However, I would have liked to explore more advanced topics, such as Laravel's event broadcasting and real-time notifications, to supplement my learning and add more dynamic functionality to this project.
+Working with Laravel has been a rewarding experience, as it provides a powerful framework with robust features that streamline web development. The built-in authentication, easy-to-use and comprehensive documentation make Laravel an excellent choice for building web applications. I particularly appreciated Laravel's emphasis on simplicity and efficiency. However, I would have liked to explore more advanced topics,to supplement my learning and add more dynamic functionality to this project.
