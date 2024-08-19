@@ -36,6 +36,8 @@ Here are a few screenshots demonstrating the user flow in the Earthquake Data Ma
 
 
 ## Screenshots
+![php1](https://github.com/user-attachments/assets/1d7cef2b-17e7-4843-b82f-7fb6c9a39f7c width=300*300)
+
 
 ## Incomplete Features
 
